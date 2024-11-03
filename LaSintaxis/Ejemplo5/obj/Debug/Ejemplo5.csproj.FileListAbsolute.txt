@@ -1,0 +1,7 @@
+C:\Users\Santy\Desktop\Curso NET\LaSintaxis\Ejemplo5\bin\Debug\Ejemplo5.exe.config
+C:\Users\Santy\Desktop\Curso NET\LaSintaxis\Ejemplo5\bin\Debug\Ejemplo5.exe
+C:\Users\Santy\Desktop\Curso NET\LaSintaxis\Ejemplo5\bin\Debug\Ejemplo5.pdb
+C:\Users\Santy\Desktop\Curso NET\LaSintaxis\Ejemplo5\obj\Debug\Ejemplo5.csproj.AssemblyReference.cache
+C:\Users\Santy\Desktop\Curso NET\LaSintaxis\Ejemplo5\obj\Debug\Ejemplo5.csproj.CoreCompileInputs.cache
+C:\Users\Santy\Desktop\Curso NET\LaSintaxis\Ejemplo5\obj\Debug\Ejemplo5.exe
+C:\Users\Santy\Desktop\Curso NET\LaSintaxis\Ejemplo5\obj\Debug\Ejemplo5.pdb

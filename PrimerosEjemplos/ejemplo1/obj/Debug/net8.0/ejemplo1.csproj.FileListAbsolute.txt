@@ -1,0 +1,14 @@
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\bin\Debug\net8.0\ejemplo1.exe
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\bin\Debug\net8.0\ejemplo1.deps.json
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\bin\Debug\net8.0\ejemplo1.runtimeconfig.json
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\bin\Debug\net8.0\ejemplo1.dll
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\bin\Debug\net8.0\ejemplo1.pdb
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\obj\Debug\net8.0\ejemplo1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\obj\Debug\net8.0\ejemplo1.AssemblyInfoInputs.cache
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\obj\Debug\net8.0\ejemplo1.AssemblyInfo.cs
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\obj\Debug\net8.0\ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\obj\Debug\net8.0\ejemplo1.dll
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\obj\Debug\net8.0\refint\ejemplo1.dll
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\obj\Debug\net8.0\ejemplo1.pdb
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\obj\Debug\net8.0\ejemplo1.genruntimeconfig.cache
+C:\Users\Santy\Desktop\Curso NET\PrimerosEjemplos\ejemplo1\obj\Debug\net8.0\ref\ejemplo1.dll

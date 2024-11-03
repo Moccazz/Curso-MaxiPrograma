@@ -1,0 +1,7 @@
+C:\Users\Santy\Desktop\Curso NET\POO1\Desafio1POO\bin\Debug\Desafio1POO.exe.config
+C:\Users\Santy\Desktop\Curso NET\POO1\Desafio1POO\bin\Debug\Desafio1POO.exe
+C:\Users\Santy\Desktop\Curso NET\POO1\Desafio1POO\bin\Debug\Desafio1POO.pdb
+C:\Users\Santy\Desktop\Curso NET\POO1\Desafio1POO\obj\Debug\Desafio1POO.csproj.AssemblyReference.cache
+C:\Users\Santy\Desktop\Curso NET\POO1\Desafio1POO\obj\Debug\Desafio1POO.csproj.CoreCompileInputs.cache
+C:\Users\Santy\Desktop\Curso NET\POO1\Desafio1POO\obj\Debug\Desafio1POO.exe
+C:\Users\Santy\Desktop\Curso NET\POO1\Desafio1POO\obj\Debug\Desafio1POO.pdb

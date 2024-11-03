@@ -1,0 +1,7 @@
+C:\Users\Santy\Desktop\Curso NET\Ejemplo3\bin\Debug\Ejemplo3.exe.config
+C:\Users\Santy\Desktop\Curso NET\Ejemplo3\bin\Debug\Ejemplo3.exe
+C:\Users\Santy\Desktop\Curso NET\Ejemplo3\bin\Debug\Ejemplo3.pdb
+C:\Users\Santy\Desktop\Curso NET\Ejemplo3\obj\Debug\Ejemplo3.csproj.AssemblyReference.cache
+C:\Users\Santy\Desktop\Curso NET\Ejemplo3\obj\Debug\Ejemplo3.csproj.CoreCompileInputs.cache
+C:\Users\Santy\Desktop\Curso NET\Ejemplo3\obj\Debug\Ejemplo3.exe
+C:\Users\Santy\Desktop\Curso NET\Ejemplo3\obj\Debug\Ejemplo3.pdb

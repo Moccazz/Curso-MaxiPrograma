@@ -1,0 +1,10 @@
+C:\Users\Santy\Desktop\Curso NET\PrimeraAppWinForm\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\Santy\Desktop\Curso NET\PrimeraAppWinForm\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\Santy\Desktop\Curso NET\PrimeraAppWinForm\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\Santy\Desktop\Curso NET\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.csproj.AssemblyReference.cache
+C:\Users\Santy\Desktop\Curso NET\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.Properties.Resources.resources
+C:\Users\Santy\Desktop\Curso NET\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.csproj.GenerateResource.cache
+C:\Users\Santy\Desktop\Curso NET\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.csproj.CoreCompileInputs.cache
+C:\Users\Santy\Desktop\Curso NET\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\Santy\Desktop\Curso NET\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.pdb
+C:\Users\Santy\Desktop\Curso NET\PrimeraAppWinForm\Ejemplo1\obj\Debug\Ejemplo1.Form1.resources

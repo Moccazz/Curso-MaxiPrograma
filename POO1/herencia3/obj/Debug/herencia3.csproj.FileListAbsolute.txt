@@ -1,0 +1,7 @@
+C:\Users\Santy\Desktop\Curso NET\POO1\herencia3\obj\Debug\herencia3.csproj.AssemblyReference.cache
+C:\Users\Santy\Desktop\Curso NET\POO1\herencia3\obj\Debug\herencia3.csproj.CoreCompileInputs.cache
+C:\Users\Santy\Desktop\Curso NET\POO1\herencia3\bin\Debug\herencia3.exe.config
+C:\Users\Santy\Desktop\Curso NET\POO1\herencia3\bin\Debug\herencia3.exe
+C:\Users\Santy\Desktop\Curso NET\POO1\herencia3\bin\Debug\herencia3.pdb
+C:\Users\Santy\Desktop\Curso NET\POO1\herencia3\obj\Debug\herencia3.exe
+C:\Users\Santy\Desktop\Curso NET\POO1\herencia3\obj\Debug\herencia3.pdb

@@ -1,0 +1,7 @@
+C:\Users\Santy\Desktop\Curso NET\POO1\CajeroAutimatic\bin\Debug\CajeroAutimatic.exe.config
+C:\Users\Santy\Desktop\Curso NET\POO1\CajeroAutimatic\bin\Debug\CajeroAutimatic.exe
+C:\Users\Santy\Desktop\Curso NET\POO1\CajeroAutimatic\bin\Debug\CajeroAutimatic.pdb
+C:\Users\Santy\Desktop\Curso NET\POO1\CajeroAutimatic\obj\Debug\CajeroAutimatic.csproj.AssemblyReference.cache
+C:\Users\Santy\Desktop\Curso NET\POO1\CajeroAutimatic\obj\Debug\CajeroAutimatic.csproj.CoreCompileInputs.cache
+C:\Users\Santy\Desktop\Curso NET\POO1\CajeroAutimatic\obj\Debug\CajeroAutimatic.exe
+C:\Users\Santy\Desktop\Curso NET\POO1\CajeroAutimatic\obj\Debug\CajeroAutimatic.pdb

@@ -1,0 +1,7 @@
+C:\Users\Santy\Desktop\Curso NET\ejerciciosKibita\ejercicio5\bin\Debug\ejercicio5.exe.config
+C:\Users\Santy\Desktop\Curso NET\ejerciciosKibita\ejercicio5\bin\Debug\ejercicio5.exe
+C:\Users\Santy\Desktop\Curso NET\ejerciciosKibita\ejercicio5\bin\Debug\ejercicio5.pdb
+C:\Users\Santy\Desktop\Curso NET\ejerciciosKibita\ejercicio5\obj\Debug\ejercicio5.csproj.AssemblyReference.cache
+C:\Users\Santy\Desktop\Curso NET\ejerciciosKibita\ejercicio5\obj\Debug\ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\Santy\Desktop\Curso NET\ejerciciosKibita\ejercicio5\obj\Debug\ejercicio5.exe
+C:\Users\Santy\Desktop\Curso NET\ejerciciosKibita\ejercicio5\obj\Debug\ejercicio5.pdb
